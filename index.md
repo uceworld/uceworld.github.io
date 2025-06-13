@@ -62,7 +62,7 @@ Auto-generation and renewal of SSL certs stored in Azure Key Vault.
 
 ## 📫 Let’s Connect
 
-- 🌐 [LinkedIn](www.linkedin.com/in/uchenna-okorie-64773430b)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/uchenna-okorie-64773430b)
 - 🐙 [GitHub](https://github.com/uceworld)
 - ✉️ uceokorie@gmail.com
 
